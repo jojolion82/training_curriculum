@@ -20,7 +20,6 @@ class CalendarsController < ApplicationController
 
 
 
-  def getWeek
 
   def get_week
 
